@@ -12,3 +12,5 @@ local/
 .env
 
 package-lock.json
+
+.codegpt
